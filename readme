@@ -1,2 +1,2 @@
 Recurrent Neural Network for chosen datasets (Sufficient training and testing time series data)
-Datasets available on UCR Time Series Classification Archive: http://www.cs.ucr.edu/~eamonn/time_series_data/ or http://timeseriesclassification.com/dataset.php?sortDESC=Number_of_classes
+Datasets created by  Yanping Chen, Eamonn Keogh, Bing Hu, Nurjahan Begum, Anthony Bagnall, Abdullah Mueen and Gustavo Batista (2015). The UCR Time Series Classification Archive. Available on http://www.cs.ucr.edu/~eamonn/time_series_data/
