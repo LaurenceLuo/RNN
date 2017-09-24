@@ -1,4 +1,6 @@
 Recurrent Neural Network for chosen datasets (Sufficient training and testing time series data)
 Datasets created by  Yanping Chen, Eamonn Keogh, Bing Hu, Nurjahan Begum, Anthony Bagnall, Abdullah Mueen and Gustavo Batista (2015). The UCR Time Series Classification Archive. Available on http://www.cs.ucr.edu/~eamonn/time_series_data/
-Given .py files used RNN to do features extraction (dimensional expansion) of original data. Extracted high-dimensional data are used for the DTW-LSH paper.
-For access of extracted data, contact me through email: llt19950119@gmail.com
+Given .py files used RNN to do features extraction (dimensional expansion) of original data using Keras Library. 
+Extracted high-dimensional data are used for the DTW-LSH paper.
+For access of extracted data, contact me through email: 
+llt19950119@gmail.com
